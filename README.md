@@ -1,10 +1,10 @@
-## Pythonで学ぶ音源分離（機械学習実践シリーズ）のソースコード
+## Python source code for the book "Sound source separation with Python" (Japanese: Pythonで学ぶ音源分離（機械学習実践シリーズ）のソースコード) by Masahi Totogami
+
+Free English translation and modification are expected in this repo.
 
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-green.svg)
 ![License](https://img.shields.io/badge/Code%20License-MIT-green.svg)
 
-本リポジトリでは、インプレス社機械学習実践シリーズの「Pythonで学ぶ音源分離」のサンプルコードを管理しています。
-なお、本ソースコードは、MITライセンスのもとで公開されています。LICENSE.txtを見てください。
 
 ## 書籍概要
 
